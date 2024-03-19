@@ -32,12 +32,12 @@ section#login {
   transform: translate(-50%, -50%);
   overflow: hidden;
   background-color: white;
-  padding: 10px;
+  padding: 9px;
   width: 250px;
   height: 500px;
   border-radius: 20px;
   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.45);
-  transition: width 0.3s, height 0.3s;
+  transition: width .3s, height .3s;
   transition-timing-function: ease;
 }
 
@@ -49,9 +49,9 @@ section#login > div#imagem {
   height: 200px;
 }
 
-section#loogin > div#formulario {
+section#login > div#formulario {
   display: block;
-  padding: 10px;
+  
 }
 
 
